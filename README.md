@@ -9,7 +9,7 @@ Analysis of Argon and Xenon Collision data to test Bardeen-Cooper-Schrieffer App
 
 ## Argon Data Tree Files
 
-Due to the data files being greater than 100 mB, the files are not uploaded directly to GitHub, and instead are located in the BCS_UNCW folder.
+Due to the data files being greater than 100 MB, the files are not uploaded directly to GitHub, and instead are located in the BCS_UNCW folder.
 
 * ### Argon 11 MeV
   * Gas In:   3672, 3673, 3674, 3675
